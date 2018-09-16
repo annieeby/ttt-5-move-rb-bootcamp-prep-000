@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 def welcome
-    puts "Hi, welcome to Tic Tac Toe. What position would you like to fill? Please choose a number between 1 and 9."
+    puts "Welcome to Tic Tac Toe!"
 end
 
 def input_to_index(input)
